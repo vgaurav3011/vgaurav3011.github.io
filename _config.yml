@@ -11,8 +11,8 @@ description: Join my journey to explore machine learning from a silent spectator
 github_username: vgaurav3011
 
 # Email and twitter are optional:
-email: vgaurav3011@gmail.com
-twitter_username: @vipulgaurav7
+email:
+twitter_username: 
 
 # Set this to true to get LaTeX math equation support
 use_math: true
