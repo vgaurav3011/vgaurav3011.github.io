@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Outlier Detection: You have to be ODD to be Number 1"
+author: vipul
+mathjax: true
+featured: true
+image: assets/images/
+excerpt: Outlier Detection!
+---
 # Outlier Detection: You have to be ODD to be Number 1
 > The process of finding data points having great variation from behaviour of the majority of data points in a collection is known as Outlier Detection.
 
