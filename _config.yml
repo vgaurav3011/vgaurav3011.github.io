@@ -21,7 +21,7 @@ use_math: true
 google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-theme: minimal_mistakes_skin: "dark"
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-gist
