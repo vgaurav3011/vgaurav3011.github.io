@@ -1,3 +1,2 @@
-# Your blog
-
-Join a geek on the journey to explore machine learning!
+# Shifted to:
+<a href="https://vipulgaurav.github.io/">Blog Link</a>
